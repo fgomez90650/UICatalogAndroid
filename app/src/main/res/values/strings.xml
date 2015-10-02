@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UICatalog</string>
+    <string name="ui_catalog">Android User Interface Catalog</string>
+    <string name="action_settings">Settings</string>
+    <string name="tables_button">Tables</string>
+    <string name="title_activity_simple_list">Simple Table</string>
+    <string name="android_table_styles">Android Table Styles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="simple_lsit_item_1_text">Titles Only</string>
+    <string name="simple_list_item_2_text">Title and Subtitles</string>
+    <string name="activity_with_different_styles"> List with different item styles</string>
+    <string name="title_activity_list_item_style1">Simple List Item Style 1</string>
+    <string name="title_activity_list_item_style2">Simple List Item Style 2</string>
+    <string name="seatA">Window Seat</string>
+    <string name="seatB">Middle Seat</string>
+    <string name="seatC">Aisle Seat</string>
+    <string name="title_activity_activity_list_item">ActivityListItem</string>
+
+</resources>
