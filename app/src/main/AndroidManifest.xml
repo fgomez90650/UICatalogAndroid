@@ -2,10 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.floydmobile.uicatalog" >
 
+
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        <!-- Added Icon and support for mipmap icons -->
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
